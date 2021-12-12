@@ -1,4 +1,7 @@
 # RosewellBASIC
+
+Current Rosewell BASIC: V1.3.2
+
 The Official Rosewell BASIC Operating System Available on Github.
 
 This is a new Rosewell Software Project called Rosewell BASIC.
