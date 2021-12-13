@@ -18,3 +18,9 @@ The Rosewell BASIC Manual is now under devolpment
 
 Check out my first project Rosewell OS Here:
 https://github.com/RosewellSoftware/RosewellOS
+
+-----Update/Patch Notes-----
+
+This Update includes;
+
+*Brewing Coffee For Next Update.....*
