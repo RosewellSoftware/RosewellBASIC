@@ -30,4 +30,4 @@ This Update Adds;
 
 --*Load Bug Fix*-- Fixes a bug where the load feature quits the OS when the name of the program you typed that you want to load is not spelled right. now it returns to the Ready Prompt.
 
-*Brewing Coffee For Next Update . . . . . *
+*Brewing Coffee For Next Update . . . . .*
