@@ -1,8 +1,8 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4.3 | Rosewell Software ©
 
-Current Rosewell BASIC: V1.4
+Current Rosewell BASIC: V1.4.3
 
 The Official Rosewell BASIC Operating System Available on Github.
 
@@ -24,10 +24,8 @@ https://github.com/RosewellSoftware/RosewellOS
 -----*Update/Patch Notes*-----
 This Update Adds;
 
---*Poke and Peek*-- allow you to poke a character to the screen and peek a character's value
+--*Background Music*-- Rosewell BASIC now uses the Pygame Module to allow the use of Background Music while Using Rosewell BASIC OS.
 
---*Ready Bug Fix*-- Fixes a bug where the OS doesn't read any input and only prints Ready.
 
---*Load Bug Fix*-- Fixes a bug where the load feature quits the OS when the name of the program you typed that you want to load is not spelled right. now it returns to the Ready Prompt.
 
 *Brewing Coffee For Next Update . . . . .*
