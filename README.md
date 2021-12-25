@@ -1,8 +1,8 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4.3 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4.5 | Rosewell Software ©
 
-Current Rosewell BASIC: V1.4.3
+Current Rosewell BASIC: V1.4.5
 
 The Official Rosewell BASIC Operating System Available on Github.
 
@@ -16,7 +16,7 @@ This project is now under devolpment
 
 The Rosewell BASIC Manual is now under devolpment
 
-A new character set called ATSCII is included for poking to the screen. NOTE; Some Characters are not correct and i will be fixing them
+The ATSCII Character are finally Fixed
 
 Check out my first project Rosewell OS Here:
 https://github.com/RosewellSoftware/RosewellOS
@@ -27,6 +27,6 @@ This Update Adds;
 
 --*Background Music*-- Rosewell BASIC now uses the Pygame Module to allow the use of Background Music while Using Rosewell BASIC OS.
 
-
+--*ATSCII Characters*-- The ATSCII Character set is finally fixed! ATSCII is a built ib character set I created around the Unicode character set
 
 *Brewing Coffee For Next Update . . . . .*
