@@ -169,28 +169,46 @@ atscii = dict(
     quadurpll = u'\u259E',
     quadurpllplr = u'\u259F'
     )
+
 def Go(num):
-    
+    """
+    Go(num)
+    #Execute the code for inputed time.
+    """
     for i in range(num):
         exec(save)
 
 def findNum(word):
+    """
+    findNum(word)
+    #Identify the inputed word is digit or not.
+    """
     for i in word:
         if i.isdigit():
             return True
     return False
 
 def eliminate(word):
+    """
+    eliminate(word)
+    #Eliminate the first word from the string line.
+    """
     return " ".join(word.split()[1:])
 
 def poke(word):
-    
+    """
+    poke(word)
+    #Get character accordingly to the inputed word.
+    """
     try:
-        
         print(atscii.get(word[0], "No Character to Poke"))
         
     except Exception as e:
-        print(e) 
+        print(e)
+
+"""
+Program start
+"""
 rose = "© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4.5 | Rosewell Software | 2021 - " + str(today.year) + " ©"
 print(rose)
 
@@ -198,10 +216,6 @@ print("Enough Basic Bytes Free")
 print("Ready")
 
 import subprocess, os, sys, random, webbrowser
-
-
-            
-           
         
 content = ""
 while True:
