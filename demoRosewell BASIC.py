@@ -8,19 +8,33 @@ nerd = ""
 load = 'BASIC Memory'
 
 def Go(num):
-    
+    """
+    Go(num)
+    #Execute the code for inputed time.
+    """
     for i in range(num):
         exec(save)
 
 def findNum(word):
+    """
+    findNum(word)
+    #Identify the inputed word is digit or not.
+    """
     for i in word:
         if i.isdigit():
             return True
     return False
 
 def eliminate(word):
+    """
+    eliminate(word)
+    #Eliminate the first word from the string line.
+    """
     return " ".join(word.split()[1:])
 
+"""
+Program start
+"""
 rose = "© Blake Gouthro and JinHo Mo | DEMO Rosewell BASIC | V1.3 | Rosewell Software | 2021 - " + str(today.year) + " ©"
 print(rose)
 
@@ -29,11 +43,8 @@ print("Ready")
 
 import subprocess, os, sys, random, webbrowser
 
-
-            
-           
-        
 content = ""
+
 while True:
     line = input()
 #goto
