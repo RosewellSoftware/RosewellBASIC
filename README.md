@@ -2,8 +2,6 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.4.5 | Rosewell Software ©
 
-Current Rosewell BASIC: V1.4.5
-
 The Official Rosewell BASIC Operating System Available on Github.
 
 This is a new Rosewell Software Project called Rosewell BASIC.
