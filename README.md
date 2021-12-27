@@ -2,6 +2,8 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.5.2 | Rosewell Software ©
 
+*Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
+
 The Official Rosewell BASIC Operating System Available on Github.
 
 This is a new Rosewell Software Project called Rosewell BASIC.
