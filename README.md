@@ -27,4 +27,6 @@ This Update includes;
 
 --*Big Bug Fix*-- Fixed the Statement Indentation Bug. Now Rosewell BASIC theoretically can build any python program and save it to a file as well as load the file in to memory.
 
+--*Secret*-- A New Secret Was Added . . . . .
+
 *Brewing Coffee For Next Update . . . . .*
