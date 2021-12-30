@@ -12,7 +12,7 @@ A recreation of an old Operation System called BASIC.
 BASIC was originally From the 80's.
 This version currently uses Python Syntax but in some ways can be superior
 
-This project is now under devolpment
+Rosewell BASIC TEST Files.zip are some Example PROGRAMS for Rosewell BASIC, NOTE; Some PROGRAMS Require the clrprint module to work.
 
 The Rosewell BASIC Manual is now FINISHED!!
 
