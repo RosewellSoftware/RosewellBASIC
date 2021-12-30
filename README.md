@@ -2,6 +2,8 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.5.4 | Rosewell Software ©
 
+Please Note; All Official Rosewell Software Software/Programs/Products should come with a Rosewell Software Official Seal of Quality starting January 1st 2022
+
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
 The Official Rosewell BASIC Operating System Available on Github.
