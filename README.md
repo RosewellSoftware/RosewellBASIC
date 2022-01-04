@@ -1,6 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.5.4 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.5.7 | Rosewell Software ©
 
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
@@ -25,8 +25,10 @@ Rosewell BASIC Instruction video coming soon ......
 
 This Update includes;
 
---*Big Bug Fix*-- Fixed the Statement Indentation Bug. Now Rosewell BASIC theoretically can build any python program and save it to a file as well as load the file in to memory.
+--*Bug Fixes*-- Add more Bug Fixes
 
---*Secret*-- A New Secret Was Added . . . . .
+--*Color*-- Color to some of the prompts were added using the 'clrprint' module
+
+--*Color BASIC Start Up*-- Added Color to the BASIC start up logo and information
 
 *Brewing Coffee For Next Update . . . . .*
