@@ -16,6 +16,9 @@ Rosewell BASIC TEST Files.zip are some Example PROGRAMS for Rosewell BASIC, NOTE
 
 The Rosewell BASIC Manual is now FINISHED!!
 
+The Instruction Video can be downloaded from the Releases Tab or from this Youtube Link:
+https://www.youtube.com/watch?v=tsenYMIQ0uo
+
 Check out my first project Rosewell OS Here:
 https://github.com/RosewellSoftware/RosewellOS
 
