@@ -14,7 +14,7 @@ This version currently uses Python Syntax but in some ways can be superior
 
 Rosewell BASIC TEST Files.zip are some Example PROGRAMS for Rosewell BASIC, NOTE; Some PROGRAMS Require the clrprint module to work.
 
-The Rosewell BASIC Manual is now FINISHED!!
+The Rosewell BASIC GUI Version is coming soon . . . . .
 
 The Instruction Video can be downloaded from the Releases Tab or from this Youtube Link:
 https://www.youtube.com/watch?v=tsenYMIQ0uo
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=tsenYMIQ0uo
 Check out my first project Rosewell OS Here:
 https://github.com/RosewellSoftware/RosewellOS
 
-Rosewell BASIC Instruction video coming soon ......
+
 
 -----*Update/Patch Notes*-----
 
