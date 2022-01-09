@@ -16,6 +16,8 @@ Rosewell BASIC TEST Files.zip are some Example PROGRAMS for Rosewell BASIC, NOTE
 
 The Rosewell BASIC GUI Version is coming soon . . . . .
 
+A Version of Rosewell BASIC is being developed as a Mac App!!!
+
 The Instruction Video can be downloaded from the Releases Tab or from this Youtube Link:
 https://www.youtube.com/watch?v=tsenYMIQ0uo
 
