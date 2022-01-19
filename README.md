@@ -2,8 +2,6 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V1.5.7 | Rosewell Software ©
 
-To Use our software, you must download the Official Seal of Quality we supply.
-
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
 The Official Rosewell BASIC Operating System Available on Github.
