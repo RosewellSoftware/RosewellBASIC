@@ -33,7 +33,7 @@ This Update Includes;
 
 --*GUI*-- A new GUI has ben built finally giving Rosewell BASIC it's own app!
 
---*macOS App*-- Included a new macOS App
+--*macOS App*-- Included a new macOS App Compatible with at least macOS 10.11 El Capitan or Newer
 
 --*Windows App*-- Included a new Windows exe App
 
