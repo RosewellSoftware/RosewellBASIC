@@ -1,6 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.0| Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.0.3 | Rosewell Software ©
 
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
@@ -31,14 +31,8 @@ There is a bundled zip file that contains a folder for the new GUI and APP versi
 
 This Update Includes;
 
---*GUI*-- A new GUI has ben built finally giving Rosewell BASIC it's own app!
+--*Text To Speech*-- Adds a new text to speech feature
 
---*macOS App*-- Included a new macOS App Compatible with at least macOS 10.11 El Capitan or Newer
-
---*Windows App*-- Included a new Windows exe App
-
---*Linux App*-- Included a new Linux App
-
---*Music Options*-- More Music Options has been added to BASIC
+--*Bug Fixes*--
 
 Brewing Coffee for next update . . . . .
