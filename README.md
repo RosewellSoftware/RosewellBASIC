@@ -35,6 +35,8 @@ This Update Includes;
 
 --*Background Colors*-- Adds 18 New Background Colors to the New Background Color System
 
+--*Restart*-- You can now restart the app to the Default blue version of the app
+
 --*Uptodate Manual*--
 
 --*Bug Fixes*--
