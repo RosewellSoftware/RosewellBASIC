@@ -1,6 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.0.3 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.1 | Rosewell Software ©
 
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
@@ -25,14 +25,18 @@ https://github.com/RosewellSoftware/RosewellOS
 NOTE; There is a input bug that will be fixed in a later version, the new GUI's can't assign the input to a variable as there is no console, so I will come up with a solution for the next release
 
 
-There is a bundled zip file that contains a folder for the new GUI and APP versions!
+There is a bundled zip file that contains a folder for the APP versions!
+
+Official Seal of Quality will come with all new versions of the Software
 
 -----*Update/Patch Notes*-----
 
 This Update Includes;
 
---*Text To Speech*-- Adds a new text to speech feature
+--*Background Colors*-- Adds 18 New Background Colors to the New Background Color System
+
+--*Uptodate Manual*--
 
 --*Bug Fixes*--
 
-Brewing Coffee for next update . . . . .
+Brewing Coffee For Next Update . . . . .
