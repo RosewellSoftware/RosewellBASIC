@@ -1,6 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.1 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.2 | Rosewell Software ©
 
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
@@ -33,11 +33,9 @@ Official Seal of Quality will come with all new versions of the Software
 
 This Update Includes;
 
---*Background Colors*-- Adds 18 New Background Colors to the New Background Color System
+--*Background Colors*-- Adds 2 New Background Colors to the New Background Color System
 
---*Restart*-- You can now restart the app to the Default blue version of the app
-
---*Uptodate Manual*--
+--*Menu Bar*-- Adds a new Menu Bar for quick options
 
 --*Bug Fixes*--
 
