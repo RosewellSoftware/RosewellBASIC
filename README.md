@@ -2,6 +2,8 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.2 | Rosewell Software ©
 
+V2.3 is currently in beta. it has a new window option and it has a bug where the macOS app won't allow it to open a new window. so that is a bug we are trying to fix.
+
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
 
 The Official Rosewell BASIC Operating System Available on Github.
