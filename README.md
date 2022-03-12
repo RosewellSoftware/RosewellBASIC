@@ -35,6 +35,8 @@ This Update Includes;
 
 --*Independent Windows*-- Adds a new system where you can use multiple windows Independent of each other
 
+--*Color Change*-- Changed the green text in the green background color
+
 --*Bug Fixes*--
 
 --*Typo Fixes*--
