@@ -2,6 +2,8 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.3 | Rosewell Software ©
 
+V2.4 is now in Development
+
 V2.3 is Here! Rosewell BASIC will now allow you to use multiple windows. you cand find the new window option in the menu bar or by typing "New Window" or "Window". there will be bugs with this feature as this is the first update that includes it.
 
 ![Screen Shot 2022-03-11 at 10 26 58 AM](https://user-images.githubusercontent.com/94485314/157903670-072cb441-732d-40e3-884a-6b700522023b.png)
