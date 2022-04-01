@@ -1,8 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.3 | Rosewell Software ©
-
-V2.4 is now in Development
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.4 | Rosewell Software ©
 
 V2.3 is Here! Rosewell BASIC will now allow you to use multiple windows. you cand find the new window option in the menu bar or by typing "New Window" or "Window". there will be bugs with this feature as this is the first update that includes it.
 
@@ -35,9 +33,11 @@ There is a bundled zip file that contains a folder for the APP versions!
 
 This Update Includes;
 
---*Independent Windows*-- Adds a new system where you can use multiple windows Independent of each other
+--*Speech Recognition*-- You can now speak into your computers microphone and Rosewell BASIC will convert it to text
 
---*Color Change*-- Changed the green text in the green background color
+--*Updated Logo*-- The Rosewell BASIC Logo has been updated to match the updated Rosewell Software Logo
+
+--*New Color*-- We have added a New Light Blue Color
 
 --*Bug Fixes*--
 
