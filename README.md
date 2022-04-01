@@ -2,6 +2,8 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.4 | Rosewell Software ©
 
+V2.4 Is Here! We now have Speech Recognition built into Rosewell BASIC!
+
 ![Screen Shot 2022-03-11 at 10 26 58 AM](https://user-images.githubusercontent.com/94485314/157903670-072cb441-732d-40e3-884a-6b700522023b.png)
 
 *Beginner's All-Purpose Symbolic Instruction Code or BASIC for Short*
