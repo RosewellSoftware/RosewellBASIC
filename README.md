@@ -26,6 +26,7 @@ https://github.com/RosewellSoftware/RosewellOS
 
 NOTE; There is a input bug that will be fixed in a later version, the new GUI's can't assign the input to a variable as there is no console, so I will come up with a solution for the next release
 
+V2.0 of the Rosewell Software Official Seal of Quality will come with all new releases
 
 There is a bundled zip file that contains a folder for the APP versions!
 
