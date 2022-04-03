@@ -1,6 +1,6 @@
 # RosewellBASIC
 
-© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.4 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.4.3 | Rosewell Software ©
 
 V2.4 Is Here! We now have Speech Recognition built into Rosewell BASIC!
 
@@ -34,11 +34,9 @@ There is a bundled zip file that contains a folder for the APP versions!
 
 This Update Includes;
 
---*Speech Recognition*-- You can now speak into your computers microphone and Rosewell BASIC will convert it to text
+--*Color Name Change*-- The Light Blue Color name has been changed to 'Navy'
 
---*Updated Logo*-- The Rosewell BASIC Logo has been updated to match the updated Rosewell Software Logo
-
---*New Color*-- We have added a New Light Blue Color
+--*V2.4.3 is a Patch Version for V2.4*--
 
 --*Bug Fixes*--
 
