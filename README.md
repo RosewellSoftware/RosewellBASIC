@@ -4,7 +4,9 @@
 
 V2.4.5 is now in devolpment
 
-A New Website is now in Devolpment
+Check out the New Website!
+
+https://rosewellsoftware.wixsite.com/rosewellsoftware
 
 ![Screen Shot 2022-03-11 at 10 26 58 AM](https://user-images.githubusercontent.com/94485314/157903670-072cb441-732d-40e3-884a-6b700522023b.png)
 
