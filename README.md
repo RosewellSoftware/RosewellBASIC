@@ -2,7 +2,7 @@
 
 © Blake Gouthro and JinHo Mo | Rosewell BASIC | V2.4.3 | Rosewell Software ©
 
-V2.4.5 is now in devolpment
+V2.5 is now in devolpment
 
 Check out the New Website!
 
